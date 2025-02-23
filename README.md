@@ -12,6 +12,4 @@ This project is a simple HTML and CSS example demonstrating how to structure a l
 - CSS3
 
 ## 🚀 Getting Started
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Nandhanakp/Marking-up-a-Letter.git
+   https://nandhanakp.github.io/MARKING_UP_LETTER/
