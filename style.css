@@ -1,0 +1,48 @@
+.address_1 {
+    width: 100%;
+    height:auto;
+    font-size: 1em;
+    font-style: italics;
+    color: #000;
+    text-align: right;}
+ 
+.address_2 {
+    font-size: 1em;
+    color: #000;
+    font-style: italics
+}
+#name {
+    font-weight: bolder;
+}
+#names {
+    font-weight: bolder;
+}
+
+h1 {
+    font-size: 2em;
+    color: #000;
+    font-weight: bolder;
+    text-align: left;
+}
+h2 {
+    font-size: 1.5em;
+    color: #000;
+    font-weight: bolder;
+    text-align: left;
+}
+body {
+
+    text-align: left;
+    margin: 40px;
+    padding: 20px;
+    font-family: 'Times New Roman', serif;
+}
+#email {
+    font-weight: bolder;
+}
+
+body .address_1, body .address_2, body p, body h1, body h2, body ul, body ol, body dl {
+    line-height: 1; 
+
+}
+
